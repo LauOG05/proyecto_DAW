@@ -1,0 +1,484 @@
+{
+    "queques": [
+        {
+            "tradicionales": [
+                {
+                    "img": "/imgs/cumpleanios1.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios2.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/cumpleanios3.jpg",
+                    "precio": "₡19000"
+                },
+                {
+                    "img": "/imgs/cumpleanios4.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios5.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/cumpleanios6.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/cumpleanios7.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/cumpleanios8.jpg",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/cumpleanios9.jpg",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/cumpleanios10.jpg",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/cumpleanios11.jpg",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/cumpleanios12.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios13.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/cumpleanios14.PNG",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/cumpleanios15.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/cumpleanios16.jpg",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/cumpleanios17.jpg",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/cumpleanios18.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios19.jpg",
+                    "precio": "₡15000"
+                },
+                {
+                    "img": "/imgs/cumpleanios20.jpg",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/cumpleanios21.jpg",
+                    "precio": "₡19000"
+                },
+                {
+                    "img": "/imgs/cumpleanios22.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios23.jpg",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/cumpleanios24.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/cumpleanios25.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios26.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/cumpleanios27.jpg",
+                    "precio": "₡19500"
+                },
+                {
+                    "img": "/imgs/cumpleanios28.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios29.PNG",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/cumpleanios30.jpg",
+                    "precio": "₡15500"
+                },
+                {
+                    "img": "/imgs/cumpleanios31.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/cumpleanios32.jpg",
+                    "precio": "₡17050"
+                },
+                {
+                    "img": "/imgs/cumpleanios33.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios34.jpg",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/cumpleanios35.jpg",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/cumpleanios36.jpg",
+                    "precio": "₡19000"
+                },
+                {
+                    "img": "/imgs/cumpleanios37.jpg",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/cumpleanios38.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios39.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/cumpleanios40.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/cumpleanios41.PNG",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/cumpleanios42.jpg",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/cumpleanios43.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/cumpleanios44.jpg",
+                    "precio": "₡19000"
+                },
+                {
+                    "img": "/imgs/cumpleanios45.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/cumpleanios46.PNG",
+                    "precio": "₡19500"
+                },
+                {
+                    "img": "/imgs/cumpleanios47.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/cumpleanios49.jpg",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/cumpleanios50.jpg",
+                    "precio": "₡18000"
+                }
+            ]
+        },
+        {
+            "mini": [
+                {
+                    "img": "/imgs/miniQueque1.jpg",
+                    "precio": "₡15500"
+                },
+                {
+                    "img": "/imgs/miniQueque2.jpg",
+                    "precio": "₡15000"
+                },
+                {
+                    "img": "/imgs/miniQueque3.jpg",
+                    "precio": "₡15000"
+                },
+                {
+                    "img": "/imgs/miniQueque4.jpg",
+                    "precio": "₡14000"
+                },
+                {
+                    "img": "/imgs/miniQueque5.jpg",
+                    "precio": "₡14500"
+                },
+                {
+                    "img": "/imgs/miniQueque6.jpg",
+                    "precio": "₡15000"
+                },
+                {
+                    "img": "/imgs/miniQueque7.jpg",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/miniQueque8.jpg",
+                    "precio": "₡14000"
+                }
+            ]
+        },
+        {
+            "fondant": [
+                {
+                    "img": "/imgs/fondant1.jpg",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/fondant2.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/fondant4.jpg",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/fondant5.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/fondant6.jpg",
+                    "precio": "₡19000"
+                },
+                {
+                    "img": "/imgs/fondant7.PNG",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/fondant8.jpg",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/fondant9.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/fondant10.jpg",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/fondant11.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/fondant12.jpg",
+                    "precio": "₡18500"
+                },
+                {
+                    "img": "/imgs/fondant13.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/fondant14.jpg",
+                    "precio": "₡16500"
+                },
+                {
+                    "img": "/imgs/fondant15.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/fondant16.jpg",
+                    "precio": "₡19000"
+                },
+                {
+                    "img": "/imgs/fondant17.jpg",
+                    "precio": "₡17500"
+                },
+                {
+                    "img": "/imgs/fondant18.jpg",
+                    "precio": "₡18000"
+                },
+                {
+                    "img": "/imgs/fondant19.jpg",
+                    "precio": "₡17000"
+                },
+                {
+                    "img": "/imgs/fondant20.PNG",
+                    "precio": "₡16000"
+                },
+                {
+                    "img": "/imgs/fondant21.jpg",
+                    "precio": "₡19000"
+                }
+            ]
+        }
+    ],
+    "cajasEspeciales": [
+        {
+            "img": "/imgs/caja1.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/caja2.jpg",
+            "precio": "₡10000"
+        },
+        {
+            "img": "/imgs/caja3.jpg",
+            "precio": "₡10500"
+        },
+        {
+            "img": "/imgs/caja4.jpg",
+            "precio": "₡12000"
+        },
+        {
+            "img": "/imgs/caja5.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/caja6.jpg",
+            "precio": "₡10500"
+        }
+    ],
+    "mesaDulce": [
+        {
+            "img": "/imgs/mesaDulce1.jpg",
+            "precio": "₡27000"
+        },
+        {
+            "img": "/imgs/mesaDulce2.jpg",
+            "precio": "₡22000"
+        },
+        {
+            "img": "/imgs/mesaDulce3.jpg",
+            "precio": "₡10000"
+        },
+        {
+            "img": "/imgs/mesaDulce4.jpg",
+            "precio": "₡22500"
+        },
+        {
+            "img": "/imgs/mesaDulce5.jpg",
+            "precio": "₡22500"
+        }
+    ],
+    "navidenios": [
+        {
+            "img": "/imgs/navidad1.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/navidad2.jpg",
+            "precio": "₡11500"
+        },
+        {
+            "img": "/imgs/navidad3.jpg",
+            "precio": "₡8000"
+        },
+        {
+            "img": "/imgs/navidad4.jpg",
+            "precio": "₡85000"
+        },
+        {
+            "img": "/imgs/navidad5.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/navidad6.jpg",
+            "precio": "₡5000"
+        }
+    ],
+    "chessecake": [
+        {
+            "img": "/imgs/chessecake1.jpg",
+            "precio": "₡12500"
+        },
+        {
+            "img": "/imgs/chessecake2.jpg",
+            "precio": "₡6000"
+        },
+        {
+            "img": "/imgs/chessecake3.jpg",
+            "precio": "₡11000"
+        }
+    ],
+    "tresLeches": [
+        {
+            "img": "/imgs/tresLeches1.jpg",
+            "precio": "₡15000"
+        },
+        {
+            "img": "/imgs/tresLeches2.jpg",
+            "precio": "₡10000"
+        },
+        {
+            "img": "/imgs/tresLeches3.jpg",
+            "precio": "₡12000"
+        },
+        {
+            "img": "/imgs/tresLeches4.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/tresLeches5.jpg",
+            "precio": "₡10500"
+        }
+    ],
+    "cupcakes": [
+        {
+            "img": "/imgs/cupcakes1.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/cupcakes2.jpg",
+            "precio": "₡9000"
+        },
+        {
+            "img": "/imgs/cupcakes3.jpg",
+            "precio": "₡8000"
+        },
+        {
+            "img": "/imgs/cupcakes4.jpg",
+            "precio": "₡12500"
+        },
+        {
+            "img": "/imgs/cupcakes5.PNG",
+            "precio": "₡12500"
+        },
+        {
+            "img": "/imgs/cupcakes6.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/cupcakes7.jpg",
+            "precio": "₡9000"
+        },
+        {
+            "img": "/imgs/cupcakes8.jpg",
+            "precio": "₡10500"
+        },
+        {
+            "img": "/imgs/cupcakes9.jpg",
+            "precio": "₡11000"
+        },
+        {
+            "img": "/imgs/cupcakes10.jpg",
+            "precio": "₡9500"
+        },
+        {
+            "img": "/imgs/cupcakes11.jpg",
+            "precio": "₡12000"
+        },
+        {
+            "img": "/imgs/cupcakes12.jpg",
+            "precio": "₡11000"
+        }
+    ]
+}
