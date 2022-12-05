@@ -1,6 +1,5 @@
 
 
-
 var map, marker, watchID, geoLoc;
 
 function initMap() {
@@ -14,7 +13,7 @@ function initMap() {
     marker = new google.maps.Marker({
         position: myLatLng,
         map,
-        title: "Tasty Bites"
+        title: "Crisbe Creative"
     });
     getPosition();
 }
@@ -66,3 +65,13 @@ function calculateAndDisplayRoute(directionsService, directionsRenderer, myLatLn
 }
 
 window.initMap = initMap;
+
+
+
+
+
+
+
+
+
+

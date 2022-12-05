@@ -43,14 +43,13 @@ function cargarTodo() {
 
 
     datos.queques[0].tradicionales.forEach(queque => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -58,14 +57,13 @@ function cargarTodo() {
 
 
     datos.queques[1].mini.forEach(queque => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -74,96 +72,89 @@ function cargarTodo() {
 
 
     datos.tresLeches.forEach(prd => {
-        hilera += " <div class='col-lg-4 text-center'>";
+        hilera += " <div class='col-lg-4 text-center mb-3'>";
         hilera += " <div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += " </div>";
 
     });
 
 
     datos.tresLeches.forEach(prd => {
-        hilera += " <div class='col-lg-4 text-center'>";
+        hilera += " <div class='col-lg-4 text-center mb-3'>";
         hilera += " <div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += " </div>";
 
     });
 
     datos.cajasEspeciales.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
 
     datos.navidenios.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
 
 
     datos.chessecake.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
 
 
     datos.cupcakes.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
 
 
     datos.mesaDulce.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -191,31 +182,29 @@ function selection(){
 
 
         datos.queques[0].tradicionales.forEach(queque => {
-            hilera += "<div class='col-lg-4 text-center'>";
+            hilera += "<div class='col-lg-4 text-center mb-3'>";
             hilera += "<div class='card borde-0  bg-light mb-2'>";
             hilera += "<div class='card-body'>";
             hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
             hilera += "</div>";
             hilera += "</div>";
             hilera += "<h6 id='nombre'></h6>";
-            hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
             hilera += "</div>";
 
         });
 
-        hilera += " <div id='style-sub' class='col-lg-12 m-auto text-center mt-5 mb-3'><h3>Mini</h3></div>";
+        hilera += " <div id='style-sub' class='col-lg-12 m-auto text-center mt-5 mb-3'><h3>Mini queques</h3></div>";
 
 
 
         datos.queques[1].mini.forEach(queque => {
-            hilera += "<div class='col-lg-4 text-center'>";
+            hilera += "<div class='col-lg-4 text-center mb-3'>";
             hilera += "<div class='card borde-0  bg-light mb-2'>";
             hilera += "<div class='card-body'>";
             hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
             hilera += "</div>";
             hilera += "</div>";
             hilera += "<h6 id='nombre'></h6>";
-            hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
             hilera += "</div>";
 
         });
@@ -224,14 +213,13 @@ function selection(){
 
 
         datos.queques[2].fondant.forEach(queque => {
-            hilera += "<div class='col-lg-4 text-center'>";
+            hilera += "<div class='col-lg-4 text-center mb-3'>";
             hilera += "<div class='card borde-0  bg-light mb-2'>";
             hilera += "<div class='card-body'>";
             hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
             hilera += "</div>";
             hilera += "</div>";
             hilera += "<h6 id='nombre'></h6>";
-            hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
             hilera += "</div>";
 
         });
@@ -289,14 +277,13 @@ function procesarDataQuequeTradcionales() {
 
 
     datos.queques[0].tradicionales.forEach(queque => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -328,14 +315,13 @@ function procesarDataQuequeMinis() {
 
 
     datos.queques[1].mini.forEach(queque => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -362,14 +348,13 @@ function procesarDataQuequeFondant() {
 
 
     datos.queques[2].fondant.forEach(queque => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + queque.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + queque.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -396,14 +381,13 @@ function procesarDataTresLeches() {
 
 
     datos.tresLeches.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -429,14 +413,13 @@ function procesarDataCajasEspeciales() {
 
 
     datos.cajasEspeciales.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -462,14 +445,13 @@ function procesarDataNavidenios() {
 
 
     datos.navidenios.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -498,14 +480,13 @@ function procesarDataChessecake() {
 
 
     datos.chessecake.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });
@@ -532,14 +513,14 @@ function procesarDataCupcakes() {
 
 
     datos.cupcakes.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
+
         hilera += "</div>";
 
     });
@@ -567,14 +548,13 @@ function procesarDataMesaDulce() {
 
 
     datos.mesaDulce.forEach(prd => {
-        hilera += "<div class='col-lg-4 text-center'>";
+        hilera += "<div class='col-lg-4 text-center mb-3'>";
         hilera += "<div class='card borde-0  bg-light mb-2'>";
         hilera += "<div class='card-body'>";
         hilera += "<img src='" + prd.img + "' width='200px' height='200px' class='img-luid'>";
         hilera += "</div>";
         hilera += "</div>";
         hilera += "<h6 id='nombre'></h6>";
-        hilera += "<p id='precio' class='text-center'>" + prd.precio + "</p>";
         hilera += "</div>";
 
     });

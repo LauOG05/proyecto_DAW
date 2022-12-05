@@ -7,7 +7,7 @@ window.onload = callService;
 
 
 
-var datos, urlAPI = "https://lauog05.github.io/products/products.json";
+var datos, urlAPI = "https://lauog05.github.io/productshome/homeProducts.json";
 
 function callService() {
     $.ajax({
@@ -236,12 +236,31 @@ function mostrarTodo() {
 
     });
 
-
     tipo.innerHTML = "";
     tipo.innerHTML = y;
 
 
+    var tipo = document.getElementById("cupCakes");
 
+    let c = "";
+
+
+    c += "<div class='carousel-item active'>";
+    c += "<img src='imgs/cupcakes1.jpg' width='100px' height='300px'  class='d-block w-100'>";
+    c += "</div>";
+
+
+    datos.cupcakes.forEach(prd => {
+
+        c += "<div class='carousel-item'>";
+        c += "<img src='" + prd.img + "' width='100px' height='300px' class='d-block w-100'>";
+        c += "</div>";
+
+
+    });
+
+    tipo.innerHTML = "";
+    tipo.innerHTML = c;
 
 
   

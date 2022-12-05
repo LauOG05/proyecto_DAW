@@ -239,7 +239,7 @@ footer li:hover ul {
 
 
 footer {
-    background-image: url("/imgs/pt6.jpeg");
+    background-image: url("../imgs/portada5.jpeg");
    
     border-color: rgb(45, 210, 174);
     background-color: white;
@@ -328,8 +328,14 @@ div#map {
 }
 
 #fond-style {
+    color:rgba(147, 87, 203, 0.965);
+    background-color: white
+   
+}
+
+#title-style {
     color: white;
-    background-color: rgba(197, 154, 237, 0.965); 
+    background-color:rgba(197, 154, 237, 0.965);
    
 }
 
