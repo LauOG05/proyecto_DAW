@@ -1,7 +1,7 @@
 
 
 
-  var varForm = document.getElementById("formulario").value;
+  var varForm = document.getElementById("form").value;
 
 
 
@@ -16,15 +16,18 @@ function valida() {
     if (document.getElementById("primaria").checked &&
       document.getElementById("secundaria").checked || document.getElementById("secundaria").checked &&
       document.getElementById("universidad").checked || document.getElementById("primaria").checked &&
-      document.getElementById("universidad").checked) throw "Debe seleccionar un solo grado académico";
+      document.getElementById("universidad").checked) throw   "Debe de elegir solo un grado academico"; 
 
+      
+    
       swal("Informacion!", "Enviando...", "info");
-   
 
   } catch (error) {
     window.alert(error);
   
   }
+
+
  
 }
 
@@ -32,13 +35,9 @@ function valida() {
 
 function enviar(){
   if(valida()){
-
-  
-    varForm.action = "https://formsubmit.co/1e9ebd902afd358528b1c9227c096dc8";
-    varForm.method = "POST";
-  
-   
-
+    document.getElementById("form").action = "https://formsubmit.co/laurnortiz05@gmail.com";
+    document.getElementById("form").method = "POST";
+ 
   document.getElementById("inputEmail").value = "";
   document.getElementById("inputName").value = "";
   document.getElementById("birthday").value = "";
